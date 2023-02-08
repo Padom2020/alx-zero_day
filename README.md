@@ -1,1 +1,1 @@
-My first readme
+hello this alx program is cool
